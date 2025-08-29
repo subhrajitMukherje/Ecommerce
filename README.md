@@ -114,7 +114,7 @@ The frontend is configured to connect to the backend at `http://localhost:5000`.
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/subhrajitMukherje/Ecommerce.git
 cd ecommerce-app
 ```
 
